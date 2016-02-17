@@ -1,0 +1,11 @@
+*.pyc
+
+machine-learning/enron_mail_20110402.tgz
+machine-learning/enron_mail_20110402/
+machine-learning/enron_mail_20150507.tgz
+machine-learning/maildir/
+machine-learning/text_learning/your_word_data.pkl
+machine-learning/text_learning/your_email_authors.pkl
+machine-learning/my_classifier.pkl
+machine-learning/my_dataset.pkl
+machine-learning/my_feature_list.pkl
